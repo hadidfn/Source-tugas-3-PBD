@@ -1,0 +1,7 @@
+=== STRUK PESANAN ===
+nasi padang x5 = Rp90000.0
+es kelapa muda x2 = Rp30000.0
+nasi padang x5 = Rp90000.0
+es kelapa muda x4 = Rp60000.0
+
+TOTAL: Rp270000.0

@@ -1,0 +1,3 @@
+nasi padang;18000.0;Makanan;MAKANAN;berat
+es kelapa muda;15000.0;Minuman;MINUMAN;dingin
+diskon 5%;50000.0;Diskon;DISKON;5.0
